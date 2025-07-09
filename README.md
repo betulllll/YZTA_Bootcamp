@@ -14,7 +14,10 @@ NeuroScope
 
 ![WhatsApp Image 2025-07-06 at 22 40 35_f6f9b9ca](https://github.com/user-attachments/assets/c4526985-b716-4e73-bd26-071c481a0ba1)
 
+## Daily Scrum
+![WhatsApp Image 2025-07-09 at 19 26 34](https://github.com/user-attachments/assets/909beb3a-4027-4600-b668-ad44549884a7)
 
+![WhatsApp Image 2025-07-09 at 19 26 34 (1)](https://github.com/user-attachments/assets/99f5199b-cd54-414f-ad59-58a6a3c0a7d4)
 
 Proje Açıklaması
 
