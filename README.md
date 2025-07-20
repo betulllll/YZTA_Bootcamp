@@ -137,6 +137,7 @@ Trello Backlog’a Gitmek İçin Tıklayın [https://trello.com/b/YgJg7Pci/team-
 <img width="1121" height="714" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/a14b922c-dc76-42da-8e67-55bf3560279b" />
 
 
+
 🧾 Sprint 2 Review
 
 - Projenin kod kısmı yüksek oranda tamamlandı.
