@@ -155,4 +155,84 @@ Genel olarak, planlamaya uygun başarılı bir sprint süreci geçirildi.
   
 -  Çalışmaların yoğunlaştırılıp son tarihe kadar projenin yetiştirilmesi planlandı.
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+📌Sprint 3 Notları
+-Sprint 3 kapsamında projenin tamamlanması hedeflendi ve başarıyla tamamlandı. Artık sistem, beyin tümörü tespiti yapabilen işlevsel bir AI sistemi haline gelmiştir.
+
+-Model, farklı tümör türlerini (Glioma, Meningioma, Pituitary) ve “No tumor” sınıfını başarıyla ayırt edebilmektedir.
+
+-Önceki sprintte eğitilen YOLOv8n modeli, bu sprintte test süreci, çıktı analizi ve sistemin son haline entegresi ile tamamlandı.
+
+-Kullanıcı arayüzü oluşturularak kullanıcıların MR görüntüsünü yükleyip sonuçları görebileceği sade ve etkili bir sistem geliştirildi.
+
+-Model performansı metrikleri çıkarıldı ve doğruluk (accuracy), precision, recall gibi ölçümler üzerinden başarı raporu hazırlandı.
+
+-Tüm kodlar ve dökümantasyonlar klasörlenerek arşivlendi ve proje teslim dosyaları hazırlandı.
+
+-Kullanılan araçlar:
+
+PyCharm IDE
+
+Ultralytics YOLOv8n modeli
+
+Google Colab ve Drive (ek analiz ve paylaşımlar için)
+
+Gradio arayüzü (demo arayüz tasarımı için)
+
+🎯Sprint 3 Hedefi
+
+-Hedef Puan: 100
+
+-Tamamlanan Puan: 100
+
+📅Sprint 3 Daily Scrum
+
+-Günlük iletişim, önceki sprintlerde olduğu gibi Whatsapp grubu üzerinden sürdürüldü.
+
+-Kritik karar ve planlamalar için Google Meets üzerinden toplantılar yapıldı.
+
+-İletişim ve iş birliği süreci sprint boyunca sorunsuz ilerledi.
+WhatsApp ekran görüntüleri;
+
+![WhatsApp Image 2025-08-03 at 23 03 33](https://github.com/user-attachments/assets/1477facb-b645-4842-923d-a4b70644da66)
+
+![WhatsApp Image 2025-08-03 at 23 02 51](https://github.com/user-attachments/assets/fabddb9b-e0e1-47e1-9b64-ddf4607bec50)
+
+
+📋 Product Backlog
+Trello Backlog’a Gitmek İçin;  <img width="1422" height="791" alt="team board" src="https://github.com/user-attachments/assets/00fa7481-fd93-42b0-8e05-9181ee35edb1" />
+in Tıklayın 
+
+📱Ürün son durumu ekran görünteleri;
+<img width="672" height="795" alt="Ekran görüntüsü 2025-08-03 225714" src="https://github.com/user-attachments/assets/e47761f2-2225-481b-8918-2a06a0d418c9" />
+
+<img width="666" height="772" alt="Ekran görüntüsü 2025-08-03 225621" src="https://github.com/user-attachments/assets/fb74adaf-99cd-4124-84d4-b0dbe725ac14" />
+
+<img width="715" height="822" alt="Ekran görüntüsü 2025-08-03 225751 (2)" src="https://github.com/user-attachments/assets/06c15c7e-5a2d-46f7-ab3e-21caacc4cf02" />
+
+
+🎉 Sprint 3 Review
+
+Projenin başında belirlenen hedefler başarıyla yerine getirildi.
+
+Model eğitimi, test süreci, çıktı analizi, kullanıcı arayüzü ve raporlama gibi tüm görevler tamamlandı.
+
+Takım üyeleri projeye katkılarından dolayı birbirini tebrik etti.
+ 
+ 🔄Sprint 3 Retrospective:
+
+-Projenin son sprinti başarıyla tamamlandı. Tüm ekip, baştan sona planlanan hedeflere ulaşmanın memnuniyetini yaşadı.
+
+-Sprint boyunca etkili iletişim ve iş birliği sayesinde herhangi bir aksama yaşanmadı.
+
+-Modelin geliştirilmesinden arayüz tasarımına, test sürecinden dökümantasyona kadar tüm adımlar tamamlandı.
+
+-Projenin başarıyla bitirilmesi üzerine ekip üyeleri birbirini tebrik etti ve ekip çalışmasının gücü bir kez daha vurgulandı.
+
+-Gelecekte benzer projelerde daha ileri düzey uygulamalar yapılabileceği üzerine fikir alışverişi yapıldı.
+
+-Sprint 3 Katılımcıları:
+Betül Eser, Mehmet Tuğ, Seval Jasmen Aydınoğlu
+
 
